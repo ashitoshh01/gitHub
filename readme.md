@@ -1,4 +1,4 @@
-# python hostipal management project 
-
+# Python Hostipal Management Project 
 Interface in python.
-Includes backed which is in sql.
+Included backed which is in sql.
+Variety of options.
